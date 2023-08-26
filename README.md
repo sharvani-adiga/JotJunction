@@ -25,7 +25,7 @@ Welcome to **JotJunction**, your personal sticky notes app where you can jot dow
 ### Installation
 
 1. Clone this repository to your local machine using:
-git clone https://github.com/your-username/jotjunction.git
+git clone https://github.com/sharvani-adiga/JotJunction.git
 
 2. Navigate to the project directory:
 cd jotjunction
